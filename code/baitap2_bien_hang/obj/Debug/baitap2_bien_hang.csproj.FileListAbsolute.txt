@@ -1,8 +1,0 @@
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\bin\Debug\baitap2_bien_hang.exe.config
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\bin\Debug\baitap2_bien_hang.exe
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\bin\Debug\baitap2_bien_hang.pdb
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\obj\Debug\baitap2_bien_hang.csproj.AssemblyReference.cache
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\obj\Debug\baitap2_bien_hang.csproj.SuggestedBindingRedirects.cache
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\obj\Debug\baitap2_bien_hang.csproj.CoreCompileInputs.cache
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\obj\Debug\baitap2_bien_hang.exe
-D:\Learning\net\module-1\baitap\bai2\baitap2_bien_hang\obj\Debug\baitap2_bien_hang.pdb
