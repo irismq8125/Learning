@@ -65,7 +65,8 @@ namespace bai5
                                     "Phu cap:\t{6}\n" +
                                     "Tam tinh:\t{7}\n" +
                                     "Tien luong: \t{8}"
-                                    , nv1.hoTen, nv1.gioiTinh, nv1.ngaySinh.ToString("dd/MM/yyyy"), nv1.LCB, nv1.HSL, nv1.soNam, nv1.PC, nv1.tamTinh, nv1.Luong);
+                                    , nv1.hoTen, nv1.gioiTinh, nv1.ngaySinh.ToString("dd/MM/yyyy"),
+                                    nv1.LCB, nv1.HSL, nv1.soNam, nv1.PC, nv1.tamTinh, nv1.Luong);
             Console.WriteLine("----------------------------------------");
 
             ThongTinNhanVien nv2 = new ThongTinNhanVien(hoTen2, gioiTinh2, ngaySinh2, HSL, LCB2, soNam2);
@@ -79,7 +80,8 @@ namespace bai5
                                     "Phu cap:\t{6}\n" +
                                     "Tam tinh:\t{7}\n" +
                                     "Tien luong: \t{8}"
-                                    , nv2.hoTen, nv2.gioiTinh, nv2.ngaySinh.ToString("dd/MM/yyyy"), nv2.LCB, nv2.HSL, nv2.soNam, nv2.PC, nv2.tamTinh, nv2.Luong);
+                                    , nv2.hoTen, nv2.gioiTinh, nv2.ngaySinh.ToString("dd/MM/yyyy"),
+                                    nv2.LCB, nv2.HSL, nv2.soNam, nv2.PC, nv2.tamTinh, nv2.Luong);
             Console.ReadKey();
         }
     }
